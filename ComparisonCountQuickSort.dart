@@ -113,8 +113,6 @@ class CountComparisonsQuicksort {
     if (array[hi] < array[mid]) swap(array, mid, hi);
     swap(array, mid, lo);
   }
-  
-
 }
 
 void main() {
